@@ -1,4 +1,4 @@
-# 🌍 Energy Consumption & Renewable Energy Analysis 📊
+#🌍 Energy Consumption & Renewable Energy Analysis 📊
 
 Welcome to the **Energy Consumption & Renewable Energy Analysis** project! This project focuses on harnessing data to promote sustainable energy solutions, aligning with Sustainable Development Goal 7: **Affordable and Clean Energy**.
 
